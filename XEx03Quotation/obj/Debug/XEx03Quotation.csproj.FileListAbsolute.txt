@@ -1,0 +1,40 @@
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\csc.exe
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\vbc.exe
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.dll.config
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.pdb
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.csprojResolveAssemblyReference.cache
+D:\Desktop\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.dll
+D:\Desktop\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.pdb
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\csc.exe
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\vbc.exe
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.dll.config
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\XEx03Quotation.pdb
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.csprojResolveAssemblyReference.cache
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.dll
+D:\Desktop\COMP 963 ASP.NET PROJECTS\XEx03Quotation\XEx03Quotation\obj\Debug\XEx03Quotation.pdb
